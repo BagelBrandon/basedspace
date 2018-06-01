@@ -17,8 +17,7 @@ Track Choice:
 
 Start/Stop:
 - To Start BasedSpace from the title screen, press the spacebar
-![alt text](https://raw.githubusercontent.com/BagelBrandon/basedspace/master/assets/images/titless.jpg)
-- If you defeat the poopy memes you can press R to restart or ESC to be done with your mission.
+https://raw.githubusercontent.com/BagelBrandon/basedspace/master/images/titless.PNG- If you defeat the poopy memes you can press R to restart or ESC to be done with your mission.
 - If you lose, you have to restart manually, that's your punishment kid (Gitgud).
 
 Scoring:
