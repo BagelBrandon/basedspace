@@ -1,4 +1,4 @@
-## This beautiful game is made by Bagel Brandon, AKA Big Papa Pete, AKA Pres, AKA Freq, AKA Dirty, AKA Tear Tat but I'm never crying, AKA The Yungest Flexer of the Millenium, AKA The Don
+## This beautiful game is made by BagelBrandon, AKA Big Papa Pete, AKA Pres, AKA Freq, AKA Dirty Dan, AKA Tear Tat but I'm never crying, AKA The Yungest Flexer of the Millenium, AKA Yung Smokebomb Supreme, AKA Based Bishop, AKA Brandank, AKA Mad but I ain't stressin, AKA The Don
 
 This is the most Based space shooter you'll ever play... in your entire life... EVER. 
 
