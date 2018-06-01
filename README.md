@@ -17,6 +17,7 @@ Track Choice:
 
 Start/Stop:
 -To Start BasedSpace from the title screen, press the spacebar
+![alt text](https://raw.githubusercontent.com/HiImChubs/mineodity-finished/master/assets/img/start.jpg)
 -If you defeat the poopy memes you can press R to restart or ESC to be done with your mission.
 -If you lose, you have to restart manually, that's your punishment kid (Gitgud).
 
@@ -25,8 +26,7 @@ Scoring:
 -Both Ugandan Knuckles and Trump take 2 hits to banquish
 
 
-1. To start the mission should you choose to accept it is to save the world from the invasion of the creepers and ghasts before they take over the world.
-![alt text](https://raw.githubusercontent.com/HiImChubs/mineodity-finished/master/assets/img/start.jpg)
+
 
 
 ```markdown
