@@ -6,6 +6,11 @@ In BasedSpace, you play as one of the Lords of Memeology, Pepe, and have to erad
 
 ![alt text](https://raw.githubusercontent.com/BagelBrandon/basedspace/master/playss.PNG)
 
+### Lore
+Yes.. Indeed. It is called Windows XP. The treacherous land where the Lords Of Memeology converge. While on their way back from the pilgrimage of Instagram, the garbage meme-accounts happened upon a dangerous but robust art. A forbidden technique passed down from the several ages of Social Media, in which it brought all of them to complete ruin. Yes, indeed, the forbidden technique I speak of is... Meme Thievery. The despicable Normies use Meme Thievery to bring death and decay to every good Age of Meme. Only by the art of reigniting the Meme Fire may a new Age of Meme be birthed. The Meme Fire may only be reignited by a Meme Lord, only then can a new Age be birthed and alongside it prosperity and tranquility. 
+
+However, reigniting the Meme Fire is no feeble task...
+
 ### Instructions
 
 To control Lord Pepe:
@@ -30,33 +35,4 @@ Scoring:
 - Both Ugandan Knuckles and Trump take 2 hits to banquish
 
 
-
-
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BagelBrandon/basedspace/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Good hunting Meme Lords, may the flames guide thee.
