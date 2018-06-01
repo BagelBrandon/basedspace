@@ -7,23 +7,23 @@ In BasedSpace, you play as one of the Lords of Memeology, Pepe, and have to erad
 ### Instructions
 
 To control Lord Pepe:
-*Use the Arrow Keys (Left and Right) To manuver
-*Use spacebar while playing to shoot back at your enemies
+- Use the Arrow Keys (Left and Right) To manuver
+- Use spacebar while playing to shoot back at your enemies
 
 Track Choice:
-*In BasedSpace there are multiple Dank Songs you can play while besting the likes of garbage memes (TYBG)
-*Numbers 1-9 will change the song playing (Top numberpad)
-*You can only access this feature while on the title screen
+- In BasedSpace there are multiple Dank Songs you can play while besting the likes of garbage memes (TYBG)
+- Numbers 1-9 will change the song playing (Top numberpad)
+- You can only access this feature while on the title screen
 
 Start/Stop:
-*To Start BasedSpace from the title screen, press the spacebar
+- To Start BasedSpace from the title screen, press the spacebar
 ![alt text](https://raw.githubusercontent.com/HiImChubs/mineodity-finished/master/assets/img/start.jpg)
-*If you defeat the poopy memes you can press R to restart or ESC to be done with your mission.
-*If you lose, you have to restart manually, that's your punishment kid (Gitgud).
+- If you defeat the poopy memes you can press R to restart or ESC to be done with your mission.
+- If you lose, you have to restart manually, that's your punishment kid (Gitgud).
 
 Scoring:
-*If you hit an enemy, you'll be rewarded with one point
-*Both Ugandan Knuckles and Trump take 2 hits to banquish
+- If you hit an enemy, you'll be rewarded with one point
+- Both Ugandan Knuckles and Trump take 2 hits to banquish
 
 
 
