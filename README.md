@@ -4,7 +4,7 @@ This is the most Based space shooter you'll ever play... in your entire life... 
 
 In BasedSpace, you play as one of the Lords of Memeology, Pepe, and have to eradicate the world of bad memes. 
 
-![alt text](https://raw.githubusercontent.com/BagelBrandon/basedspace/master/images/playss.PNG)
+![alt text](https://raw.githubusercontent.com/BagelBrandon/basedspace/master/playss.PNG)
 
 ### Instructions
 
