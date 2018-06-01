@@ -7,7 +7,7 @@ In BasedSpace, you play as one of the Lords of Memeology, Pepe, and have to erad
 ![alt text](https://raw.githubusercontent.com/BagelBrandon/basedspace/master/playss.PNG)
 
 ### Lore
-Yes.. Indeed. It is called Windows XP. The treacherous land where the Lords Of Memeology converge. While on their way back from the pilgrimage of Instagram, the garbage meme-accounts happened upon a dangerous but robust art. A forbidden technique passed down from the several ages of Social Media, in which it brought all of them to complete ruin. Yes, indeed, the forbidden technique I speak of is... Meme Thievery. The despicable Normies use Meme Thievery to bring death and decay to every good Age of Meme. Only by the art of reigniting the Meme Fire may a new Age of Meme be birthed. The Meme Fire may only be reignited by a Meme Lord, only then can a new Age be birthed and alongside it prosperity and tranquility. 
+Yes.. Indeed. It is called Windows XP. The treacherous land where the Lords Of Memeology converge. While on their way back from the pilgrimage of Instagram, the garbage meme-accounts happened upon a dangerous but robust art. A forbidden technique passed down from the several ages of Social Media, in which it brought all of them to complete ruin. Yes, indeed, the forbidden technique I speak of is... Meme Thievery. The despicable Normies use Meme Thievery to bring death and decay to every good Age of Meme. Only by the art of reigniting the Meme Fire may a new Age of Meme be birthed. Meme Lords use Flames to banquish the despicable Normies. The Meme Fire may only be reignited by a Meme Lord, only then can a new Age be birthed and alongside it prosperity and tranquility. 
 
 However, reigniting the Meme Fire is no feeble task...
 
