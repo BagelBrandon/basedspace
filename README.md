@@ -15,9 +15,12 @@ Track Choice:
 - Numbers 1-9 will change the song playing (Top numberpad)
 - You can only access this feature while on the title screen
 
+
+![alt text](https://raw.githubusercontent.com/BagelBrandon/basedspace/master/images/titless.PNG)
+
 Start/Stop:
 - To Start BasedSpace from the title screen, press the spacebar
-https://raw.githubusercontent.com/BagelBrandon/basedspace/master/images/titless.PNG- If you defeat the poopy memes you can press R to restart or ESC to be done with your mission.
+- If you defeat the poopy memes you can press R to restart or ESC to be done with your mission.
 - If you lose, you have to restart manually, that's your punishment kid (Gitgud).
 
 Scoring:
