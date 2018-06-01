@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/BagelBrandon/basedspace/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is the most Based space shooter you'll ever play... in your entire life... EVER. 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
